@@ -47,18 +47,8 @@ In summary, my skills encompass a diverse range of technical and soft skills, ho
         - Utilized Bootstrap and HTML for an intuitive, responsive front-end.
     - My role streamlined admissions, prioritized data security, and showcased my innovative solutions.
     - GitHub Repository: [College Admissions System](https://github.com/kovidhkumar/Admission)
-
-  
-2. **INTERN | Mar-May 2023** 🌟
-    - Worked as a Quality Analyst Intern at GroupIN.app, a dynamic tech company specializing in cutting-edge solutions. During my three-month internship, I had the opportunity to immerse myself in the world of software quality assurance and collaborate with a talented team of professionals.
-    - **Responsibilities:**
-        - Conducted rigorous testing and analysis of software applications, identifying and documenting defects to ensure product quality.
-        - Collaborated closely with developers and product managers to communicate issues, track progress, and ensure timely bug resolution.
-        - Verifying software functionality, usability, and performance.
-        - Contributed valuable insights and feedback to enhance product features, usability, and overall user experience.
-    - My time as a Quality Analyst Intern was an invaluable experience that honed my attention to detail and problem-solving skills. It reinforced the importance of delivering software that meets the highest standards of quality and usability.
-    
-3. **COLLEGE MANAGEMENT SYSTEM | July 2023** 📆
+   
+2. **COLLEGE MANAGEMENT SYSTEM | July 2023** 📆
     - In July 2023, I embarked on an new project to develop a College Management System, a comprehensive solution designed to streamline various administrative tasks within the college environment.
     - **Key Achievements:**
         - *Management of Notifications and Press Releases:* I played a pivotal role in creating a feature-rich system that managed and distributed notifications and press releases efficiently. This system improved communication among students, faculty, and staff, enhancing the overall information flow within the college.
@@ -67,6 +57,17 @@ In summary, my skills encompass a diverse range of technical and soft skills, ho
     - *My contributions to the College Management System project not only demonstrated my technical proficiency but also showcased my ability to deliver practical solutions to real-world challenges*.
     - The project served as a testament to my commitment to enhancing operational efficiency and communication within educational institutions.
     - GitHub Repository: [College Management System](https://github.com/kovidhkumar/Clg_App)
+  
+## Internships
+  
+**INTERN | Mar-May 2023** 🌟
+    - Worked as a Quality Analyst Intern at GroupIN.app, a dynamic tech company specializing in cutting-edge solutions. During my three-month internship, I had the opportunity to immerse myself in the world of software quality assurance and collaborate with a talented team of professionals.
+    - **Responsibilities:**
+        - Conducted rigorous testing and analysis of software applications, identifying and documenting defects to ensure product quality.
+        - Collaborated closely with developers and product managers to communicate issues, track progress, and ensure timely bug resolution.
+        - Verifying software functionality, usability, and performance.
+        - Contributed valuable insights and feedback to enhance product features, usability, and overall user experience.
+    - My time as a Quality Analyst Intern was an invaluable experience that honed my attention to detail and problem-solving skills. It reinforced the importance of delivering software that meets the highest standards of quality and usability.
 
 ## Certifications/Courses 📜
 
