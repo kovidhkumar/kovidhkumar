@@ -29,7 +29,7 @@ Passionate developer dedicated to delivering high-quality code, fostering innova
 - Strong foundation in algorithms and data structures, enabling mastery of efficient solutions to complex problems, enhancing software development quality.
 
 In summary, my skills encompass a diverse range of technical and soft skills, honed through practical experiences and projects. I am dedicated to delivering excellence, collaborating effectively, and continuously growing as a developer.
-
+##
 ## Education 📚
 
 - **BACHELOR OF TECHNOLOGY** | *SAI SPURTHI INSTITUTE OF TECHNOLOGY* | 2020-2024
