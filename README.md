@@ -58,16 +58,23 @@ In summary, my skills encompass a diverse range of technical and soft skills, ho
     - The project served as a testament to my commitment to enhancing operational efficiency and communication within educational institutions.
     - GitHub Repository: [College Management System](https://github.com/kovidhkumar/Clg_App)
   
- ## INTERN | Mar-May 2023 🌟
- 
-    - - Worked as a Quality Analyst Intern at GroupIN.app, a dynamic tech company specializing in cutting-edge solutions. During my three-month internship, I had the opportunity to immerse myself in the world of software quality assurance and collaborate with a talented team of professionals.
-    - **Responsibilities:**
-        - Conducted rigorous testing and analysis of software applications, identifying and documenting defects to ensure product quality.
-        - Collaborated closely with developers and product managers to communicate issues, track progress, and ensure timely bug resolution.
-        - Verifying software functionality, usability, and performance.
-        - Contributed valuable insights and feedback to enhance product features, usability, and overall user experience.
-    - My time as a Quality Analyst Intern was an invaluable experience that honed my attention to detail and problem-solving skills. It reinforced the importance of delivering software that meets the highest standards of quality and usability."
+## Quality Analyst Internship at GroupIN.app 🌐
 
+During my three-month Quality Analyst Internship at GroupIN.app, a dynamic tech company known for its cutting-edge solutions, I had the privilege of immersing myself in the world of software quality assurance. This invaluable experience allowed me to collaborate with a highly skilled team of professionals, contributing to the enhancement of software product quality.
+
+### Responsibilities 👨‍💻
+
+- **Rigorous Testing and Analysis:** My primary responsibility was to conduct meticulous testing and in-depth analysis of various software applications. I diligently identified, documented, and reported defects to uphold the highest standards of product quality.
+
+- **Collaboration with Developers and Product Managers:** Collaboration was key to my role. I worked closely with developers and product managers, establishing effective communication channels. This collaboration facilitated the articulation of issues, tracking of progress, and ensured the timely resolution of identified bugs and discrepancies.
+
+- **Verification of Functionality, Usability, and Performance:** I played a pivotal role in verifying the functionality, usability, and performance of software products. This meticulous verification process ensured that the software met user expectations in terms of both usability and performance.
+
+- **Contributing Valuable Insights:** Beyond identifying defects, I actively contributed valuable insights and feedback to enhance product features, usability, and the overall user experience. My contributions directly influenced the improvement of software solutions.
+
+### Key Takeaways 🚀
+
+My time as a Quality Analyst Intern was transformative. It sharpened my attention to detail and honed my problem-solving skills. It reinforced the paramount importance of delivering software that not only meets but consistently exceeds the highest standards of quality and usability. This experience continues to guide my pursuit of excellence in software development.
 
 ## Certifications/Courses 📜
 
