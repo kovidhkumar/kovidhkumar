@@ -58,16 +58,20 @@ In summary, my skills encompass a diverse range of technical and soft skills, ho
     - The project served as a testament to my commitment to enhancing operational efficiency and communication within educational institutions.
     - GitHub Repository: [College Management System](https://github.com/kovidhkumar/Clg_App)
   
-## Internships
-  
-**INTERN | Mar-May 2023** 🌟
-    - Worked as a Quality Analyst Intern at GroupIN.app, a dynamic tech company specializing in cutting-edge solutions. During my three-month internship, I had the opportunity to immerse myself in the world of software quality assurance and collaborate with a talented team of professionals.
+ ## INTERN | Mar-May 2023 🌟
+ 
+    - During my internship from March to May 2023, I had the privilege of serving as a Quality Analyst Intern at GroupIN.app, a dynamic and forward-thinking tech company renowned for its cutting-edge solutions. This opportunity allowed me to dive deep into the world of software quality assurance and collaborate with a highly skilled and motivated team of professionals.
+
     - **Responsibilities:**
-        - Conducted rigorous testing and analysis of software applications, identifying and documenting defects to ensure product quality.
-        - Collaborated closely with developers and product managers to communicate issues, track progress, and ensure timely bug resolution.
-        - Verifying software functionality, usability, and performance.
-        - Contributed valuable insights and feedback to enhance product features, usability, and overall user experience.
-    - My time as a Quality Analyst Intern was an invaluable experience that honed my attention to detail and problem-solving skills. It reinforced the importance of delivering software that meets the highest standards of quality and usability.
+        - One of my primary responsibilities was to conduct thorough testing and meticulous analysis of various software applications. I meticulously identified, documented, and reported defects to ensure the highest level of product quality.
+        - Collaboration was a key aspect of my role. I worked closely with developers and product managers, fostering effective communication to address issues, track progress, and ensure timely resolution of any identified bugs or discrepancies.
+        - Verifying software functionality, usability, and performance was integral to maintaining the integrity of our products. I continuously tested and assessed these aspects, providing vital feedback to enhance the overall user experience.
+        - My contributions extended beyond bug detection. I offered valuable insights and feedback that directly contributed to the improvement of product features and usability. This holistic approach helped elevate the quality of our software solutions.
+
+    - My tenure as a Quality Analyst Intern was an invaluable experience that significantly honed my attention to detail, problem-solving skills, and understanding of software quality assurance principles. It reinforced the critical importance of delivering software that not only meets but exceeds the highest standards of quality and usability. My time at GroupIN.app was a pivotal chapter in my professional journey, and the lessons learned continue to guide me in my pursuit of excellence.
+
+    - GitHub Repository: [Quality Analyst Internship](https://github.com/YourUsername/quality-analyst-internship)
+
 
 ## Certifications/Courses 📜
 
