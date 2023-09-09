@@ -1,5 +1,6 @@
 Mutha Kovidh 🚀
 DEVELOPER 💻
+
 Objective 🎯
 Passionate developer dedicated to delivering high-quality code, fostering innovation, and achieving collective goals. Eager to leverage my programming expertise to contribute effectively to diverse projects.
 
