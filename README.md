@@ -75,6 +75,6 @@ Transformative internship experience sharpening attention to detail and problem-
 
 - **M.kovidh Kumar**
 - **Phone:** 9573486566 ☎️
-- **Email:** Kovidh.m@outlook.com 📧
+- **Email:** Kovidhkumar9823@gmail.com 📧
 - **GitHub:** [https://github.com/kovidhkumar](https://github.com/kovidhkumar)
 - Ready to collaborate with fellow professionals and contribute to innovative projects. Let's code together! 💬
