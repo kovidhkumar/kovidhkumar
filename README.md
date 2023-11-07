@@ -34,7 +34,7 @@ Passionate developer dedicated to delivering high-quality code, fostering innova
 
 - **BACHELOR OF TECHNOLOGY** | *SAI SPURTHI INSTITUTE OF TECHNOLOGY* | 2020-2024
   - Pursuing BTech in Computer Science and Engineering.
-  - Relevant Coursework: Core JAVA, WEB Technologies (JSP, JDBC, SERVLETS), DBMS.
+  - Relevant Coursework: Core JAVA, WEB Technologies (JSP, JDBC, SERVLETS), DBMS,PHP.
   - Co-founded Tech Geeks Club, fostering a community for tech enthusiasts. 🚀
 
 ## Projects 🚧
