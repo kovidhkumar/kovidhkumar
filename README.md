@@ -1,80 +1,78 @@
-Certainly! Here's the revised version of your profile with the repetitive statements removed:
+Mutha Kovidh 💻
 
-# Mutha Kovidh 💻
 
-![Developer](https://img.shields.io/badge/Developer-Code%20Magician-blue)
-
-## Objective 🎯
-
+Objective 🎯
 Passionate developer dedicated to delivering high-quality code, fostering innovation, and achieving collective goals. Eager to leverage my programming expertise to contribute effectively to diverse projects and collaborate with like-minded professionals.
 
-## Skills 🛠️
+Skills 🛠️
+Programming Languages:
+Java, PHP, Python, JavaScript – Strong experience in backend and full-stack development.
 
-### Programming Languages:
-- **Java:** Demonstrated proficiency in developing robust and efficient solutions.
-- **PHP:** Backend development expertise for secure and dynamic web applications.
+Web Development:
+HTML, CSS, Bootstrap – Creating responsive and visually appealing user interfaces.
 
-### Web Development:
-- **HTML and CSS:** Crafted responsive and visually appealing user interfaces.
-- **Bootstrap:** Created user-friendly and adaptive web interfaces.
+React, Django – Developed scalable applications with frontend and backend integration.
 
-### Problem Solving and Analytical Skills:
-- Meticulous problem-solving and analytical skills refined during my Quality Analyst Internship at GroupIN.app.
+Power Platform & Database:
+PowerApps, Power Automate, Power Pages – Worked on projects to collect data via PowerApps, store it in MSSQL, and generate Power BI dashboards.
 
-### Soft Skills:
-- **Effective Communication:** Actively communicated with team members, developers, and product managers.
-- **Teamwork:** Demonstrated strong teamwork in collaboration with a talented team at GroupIN.app.
-- **Adaptability:** Versatile adaptability to new challenges and technologies.
-- **Problem-Solving:** Active engagement in problem-solving as a Quality Analyst Intern.
+SQL (MSSQL, MySQL) – Database schema design, query optimization, and data management.
 
-### Algorithms and Data Structures:
-- Strong foundation in algorithms and data structures, enabling mastery of efficient solutions to complex problems.
+Problem-Solving & Soft Skills:
+Algorithms & Data Structures – Strong foundation for efficient problem-solving.
 
-## Education 📚
+Quality Analysis – Experience in testing and streamlining application validation processes.
 
-- **BACHELOR OF TECHNOLOGY** | *SAI SPURTHI INSTITUTE OF TECHNOLOGY* | 2020-2024
-  - Pursuing BTech in Computer Science and Engineering.
-  - Relevant Coursework: Core JAVA, WEB Technologies (JSP, JDBC, SERVLETS), DBMS,PHP.
-  - Co-founded Tech Geeks Club, fostering a community for tech enthusiasts. 🚀
+Communication & Teamwork – Effective collaboration with developers and stakeholders.
 
-## Projects 🚧
+Education 📚
+BACHELOR OF TECHNOLOGY | SAI SPURTHI INSTITUTE OF TECHNOLOGY | 2020-2024
 
-1. **COLLEGE ADMISSIONS SYSTEM | Feb-Mar 2023** 🎓
-    - Led a digital transformation, reducing administrative overhead and ensuring data security.
-    - Designed program-specific modules for student details and documents.
-    - Utilized Bootstrap and HTML for an intuitive, responsive front-end.
-    - GitHub Repository: [College Admissions System](https://github.com/kovidhkumar/Admission)
-   
-2. **COLLEGE MANAGEMENT SYSTEM | July 2023** 📆
-    - Developed features for efficient communication among students, faculty, and staff.
-    - Integrated a complaint management module for prompt issue resolution.
-    - Created an Online Exam Monitoring System using JavaServer Pages (JSP) for secure online examinations.
-    - GitHub Repository: [College Management System](https://github.com/kovidhkumar/Clg_App)
-  
-## Quality Analyst Internship at GroupIN.app 🌐
+Relevant Coursework: Core JAVA, Web Technologies (JSP, JDBC, SERVLETS), DBMS, PHP.
 
-### Responsibilities 👨‍💻
+Co-founded Tech Geeks Club, fostering a community for tech enthusiasts. 🚀
 
-- Conducted meticulous testing and in-depth analysis of various software applications.
-- Collaborated with developers and product managers, ensuring timely resolution of identified bugs and discrepancies.
-- Verified functionality, usability, and performance of software products.
-- Contributed valuable insights to enhance product features and usability.
+Projects 🚧
+PowerApps & Power Automate Project (Client: Hetero) 🏢
+Developed a PowerApps application for data collection and stored it in MSSQL.
 
-### Key Takeaways 🚀
+Integrated Power Automate for automated workflows.
 
-Transformative internship experience sharpening attention to detail and problem-solving skills. Reinforced the importance of delivering software that exceeds the highest standards of quality and usability.
+Designed a Power BI dashboard for business insights.
 
-## Certifications/Courses 📜
+Validation Project (React & Django) ✅
+Streamlined the qualification process of applications/systems.
 
-- Java Fundamentals | Python Essentials by Task (Telangana Academic Skills and Knowledge) 📊
-- Python Complete Course by Udemy 🐍
-- IBC Hackathon on Blockchain and Cryptocurrency 💼
-- Python for Data Science by NPTE 📈
+Role: Database Schema Design & Backend Development using Django & MSSQL.
 
-## Contact 📞
+College Admissions System 🎓
+Designed a digital transformation system for student admission.
 
-- **M.kovidh Kumar**
-- **Phone:** 9573486566 ☎️
-- **Email:** kovidhkumar9823@gmail.com 📧
-- **GitHub:** [https://github.com/kovidhkumar](https://github.com/kovidhkumar)
-- Ready to collaborate with fellow professionals and contribute to innovative projects. Let's code together! 💬
+Tech Stack: Bootstrap, HTML, PHP, MSSQL.
+
+GitHub Repository
+
+College Management System 📆
+Developed features for efficient communication and complaint resolution.
+
+Integrated an Online Exam Monitoring System using JSP.
+
+GitHub Repository
+
+Certifications 📜
+Java Fundamentals | Python Essentials – TASK Telangana
+
+Python for Data Science – NPTEL
+
+Python Complete Course – Udemy
+
+IBC Hackathon – Blockchain & Cryptocurrency
+
+Contact 📞
+M. Kovidh Kumar
+
+Phone: 9573486566 ☎️
+
+Email: kovidhkumar9823@gmail.com 📧
+
+GitHub: https://github.com/kovidhkumar
