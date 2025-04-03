@@ -65,5 +65,3 @@ Eager to leverage my programming expertise to contribute effectively to diverse 
 - **Phone:** 9573486566 ☎️  
 - **Email:** kovidhkumar9823@gmail.com 📧  
 - **GitHub:** [https://github.com/kovidhkumar](https://github.com/kovidhkumar)  
-
-Let's collaborate and build innovative solutions together! 🚀  
