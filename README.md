@@ -10,7 +10,7 @@ Eager to leverage my programming expertise to contribute effectively to diverse 
 ## Skills 🛠️  
 
 ### Programming Languages:  
-- **Java, PHP, Python, JavaScript** – Strong experience in backend and full-stack development.  
+- **Python, JavaScript, Java, PHP** – Strong experience in backend and full-stack development.  
 
 ### Web Development:  
 - **HTML, CSS, Bootstrap** – Creating responsive and visually appealing user interfaces.  
@@ -53,7 +53,7 @@ Eager to leverage my programming expertise to contribute effectively to diverse 
 - [GitHub Repository](https://github.com/kovidhkumar/Clg_App)  
 
 ## Certifications 📜  
-
+- **Build SOlutions with Power apps & Power automate ** _ Udemy
 - **Java Fundamentals | Python Essentials** – TASK Telangana  
 - **Python for Data Science** – NPTEL  
 - **Python Complete Course** – Udemy  
