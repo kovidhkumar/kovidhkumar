@@ -33,7 +33,7 @@ Eager to leverage my programming expertise to contribute effectively to diverse 
 
 ## Projects 🚧  
 
-### **PowerApps & Power Automate Project (Client: Hetero) 🏢**  
+### **PowerApps & Power Automate Project**  
 - Developed a **PowerApps application** for data collection and stored it in **MSSQL**.  
 - Integrated **Power Automate** for automated workflows.  
 - Designed a **Power BI dashboard** for business insights.  
